@@ -1,0 +1,3 @@
+damir,6
+azamat,6
+erlan,0
